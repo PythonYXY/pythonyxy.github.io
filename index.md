@@ -3,4 +3,4 @@ Welcome to Visite
 <a href="http://www.nogizaka46.com/member/detail/yodayuuki.php" target="_blank">乃木坂46 Official Web Site - よだちゃん</a>
 
 
-![yoda](https://github.com/PythonYXY/pythonyxy.github.io/blob/master/images/yoda.jpg)
+![yoda](http://yodayuuki.cn/images/yoda.jpg)
