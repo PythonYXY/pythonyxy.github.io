@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # 与田祐希 
 ##（Yoda Yuuki | 2000年5月5日 -）
 Welcome to Visite 
